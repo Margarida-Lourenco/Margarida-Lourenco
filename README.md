@@ -16,8 +16,8 @@
  </a> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="margarida-lourenco" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="margarida-lourenco" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en&theme=shades-of-purple" alt="margarida-lourenco" />
+  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en&theme=discord_old_blurple" alt="margarida-lourenco" />
 </p>
