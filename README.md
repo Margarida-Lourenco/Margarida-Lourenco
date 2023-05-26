@@ -15,6 +15,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
  </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=margarida-lourenco&show_icons=true&locale=en&layout=compact" alt="margarida-lourenco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en" alt="margarida-lourenco" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="margarida-lourenco" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en&theme=shades-of-purple" alt="margarida-lourenco" />
+</p>
