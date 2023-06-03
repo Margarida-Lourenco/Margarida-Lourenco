@@ -17,8 +17,10 @@
  </a> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="margarida-lourenco" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en&theme=discord_old_blurple" alt="margarida-lourenco" />
+  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&locale=en&theme=material-palenight" alt="margarida-lourenco" />
 </p>
