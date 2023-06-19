@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Margarida Lourenço</h1>
 <h3 align="center">Continuously learning, coding, and evolving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=margarida-lourenco&label=Profile%20views&color=0e75b6&style=flat" alt="margarida-lourenco" /> </p>
 
 - 🌱 I’m currently learning **Assembly**
 
