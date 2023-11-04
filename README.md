@@ -2,7 +2,7 @@
 <h3 align="center">Continuously learning, coding, and evolving.</h3>
 
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **margaridacode9101214@gmail.com**
 
