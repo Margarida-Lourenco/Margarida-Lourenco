@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-- 📄 Know about my experiences [CV] (file:///C:/Users/User/Downloads/Margarida_Ascens%C3%A3o%20Louren%C3%A7o_Resume_14-11-2023-23-31-28.pdf)
+- 📄 Know about my experiences [![CV] (file:///C:/Users/User/Downloads/Margarida_Ascens%C3%A3o%20Louren%C3%A7o_Resume_14-11-2023-23-31-28.pdf)] (file:///C:/Users/User/Downloads/Margarida_Ascens%C3%A3o%20Louren%C3%A7o_Resume_14-11-2023-23-31-28.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
