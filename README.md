@@ -8,9 +8,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-- 📄 Know about my experiences <a href="https://pdfhost.io/v/ncn6Emx5k_Margarida_Ascenso_Loureno_Resume_14112023234915" target="_blank">
-  <img src="https://img.shields.io/badge/Curriculum%20Vitae-PDF-blue">
-</a>
+- 📄 Know about my experiences [Check out my CV](https://pdfhost.io/v/ncn6Emx5k_Margarida_Ascenso_Loureno_Resume_14112023234915)
 
 
 <h3 align="left">Languages and Tools:</h3>
