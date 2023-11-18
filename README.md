@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-- 📄 Know about my experiences [CV](https://pdfhost.io/v/ncn6Emx5k_Margarida_Ascenso_Loureno_Resume_14112023234915)
+- 📄 Know about my experiences **[CV](https://pdfhost.io/v/ncn6Emx5k_Margarida_Ascenso_Loureno_Resume_14112023234915)**
 
 
 <h3 align="left">Languages and Tools:</h3>
