@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there! I'm Margarida Lourenço</h1>
 <div align="center">
-  <img src="" height="100px"/>
+  <img src="Friends Love GIF by Molang_Official - Find & Share on GIPHY.gif" height="100px"/>
 </div>
 <h3 align="center">Continuously learning and coding.</h3>
 
