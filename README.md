@@ -4,6 +4,7 @@
 </div>
 <h3 align="center">Coding the future, one commit at a time 😊.</h3>
 
+</div>
 
 - 🌱 I’m currently learning **Java**
 
