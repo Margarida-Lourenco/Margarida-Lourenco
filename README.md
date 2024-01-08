@@ -20,7 +20,7 @@
    </a> </p>
  
 <div style="width: 400px; height: 400px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Stats" style="margin-bottom: 10px;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&layout=compact&theme=noctis_minimus&count_private=true&custom_title=Top%20Languages" alt="Top Languages">
 </div>
 
