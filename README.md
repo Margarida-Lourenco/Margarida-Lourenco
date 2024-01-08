@@ -1,5 +1,7 @@
 <h1 align="center"> Hello there! I'm Margarida Lourenço</h1>
-![gif] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcositas--853361829370531652%2F&psig=AOvVaw13Es5KfyDVBDEaKhxQkuoA&ust=1704833882881000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjLlqPXzoMDFQAAAAAdAAAAABBG)
+<div align="center">
+  <img src="" height="100px"/>
+</div>
 <h3 align="center">Continuously learning and coding.</h3>
 
 
