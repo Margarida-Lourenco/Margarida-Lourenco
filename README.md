@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Margarida Lourenço</h1>
-<h3 align="center">Continuously learning, coding, and evolving.</h3>
+<h3 align="center">Continuously learning and coding.</h3>
 
 
 - 🌱 I’m currently learning **Java**
