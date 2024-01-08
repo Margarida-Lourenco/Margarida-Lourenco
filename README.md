@@ -19,6 +19,7 @@
 
 <p align="left">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=noctis_minimus&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)](https://github.com/margarida-lourenco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&layout=compact&theme=noctis_minimus&count_private=true)](https://github.com/margarida-lourenco/github-readme-stats)
+
