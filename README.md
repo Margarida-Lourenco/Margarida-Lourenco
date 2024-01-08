@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
  </a> </p>
 
-<div style="width: 800px; height: 400px;">
+<div style="width: 400px; height: 400px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=noctis_minimus&count_private=true" alt="GitHub Stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&layout=compact&theme=noctis_minimus&count_private=true&custom_title=Top%20Languages" alt="Top Languages">
 </div>
