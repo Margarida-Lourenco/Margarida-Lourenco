@@ -6,7 +6,7 @@
 
 </div>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Makefile**
 
 - 📫 How to reach me **margaridacode9101214@gmail.com**
 
