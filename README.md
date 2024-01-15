@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! I'm Margarida Lourenço</h1>
+<h1 align="center"> Hello! I'm Margarida Lourenço</h1>
 <div align="center">
   <img src="Friends Love GIF by Molang_Official - Find & Share on GIPHY.gif" height="100px"/>
 </div>
