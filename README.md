@@ -5,6 +5,7 @@
 <h3 align="center">Coding the future, one commit at a time 😊.</h3>
 
 </div>
+</div>
 
 - 🎓 I'm Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)
 
