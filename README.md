@@ -6,6 +6,8 @@
 
 </div>
 
+- 🎓 I'm Studying Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt)
+
 - 🌱 I’m currently learning **Java, Makefile**
 
 - 📫 How to reach me **margaridacode9101214@gmail.com**
