@@ -9,11 +9,11 @@
 
 - 🎓 I'm Studying Computer Science and Engineering at **[Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
 
-- 🌱 I’m currently learning **Java, Makefile**
+- 🌱 I’m currently learning Java, Makefile
 
 - 📫 How to reach me **margaridacode9101214@gmail.com**
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact I play guitar
 
 - 📄 Know about my experiences **[CV](https://fuchsia-felita-56.tiiny.site)**
 
