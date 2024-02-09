@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact I play guitar
 
-- 📄 Know about my experiences **[CV](https://fuchsia-felita-56.tiiny.site)**
+- 📄 Know about my experiences **[CV](Margarida-Ascensão-Lourenço-CV.pdf)**
 
 
 <h2 align="center">Languages:</h2>
