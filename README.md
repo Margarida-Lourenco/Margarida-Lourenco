@@ -2,7 +2,7 @@
 <div align="center">
   <img src="Friends Love GIF by Molang_Official - Find & Share on GIPHY.gif" height="100px"/>
 </div>
-<h3 align="center">Coding the future, one commit at a time 😊.</h3>
+
 
 <br>
 <br>
