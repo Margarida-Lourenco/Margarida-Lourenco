@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **margaridacode9101214@gmail.com**
 
-- 📄 Know about my experiences **[CV](Margarida-Ascensão-Lourenço-CV.pdf)**
-
 - 📖 Stephen King is my favourite author
 
 
