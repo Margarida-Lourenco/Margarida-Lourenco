@@ -44,6 +44,9 @@
     </tr>
   </table>
 
+</p>
+<br>
+</p>
 <div align="left">
   <h3>Statistics</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=catppuccin_latte&count_private=true" alt="GitHub Stats">
