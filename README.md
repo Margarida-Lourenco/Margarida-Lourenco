@@ -11,7 +11,7 @@
 Welcome! 😄
 <div style="text-align: justify;">
 I'm a hardworking 20-year-old about to start my final year of my Bachelor's in Computer Science and Engineering. 
-I'm particularly fond of database management. 
+I'm particularly fond of data science. 
 In adittion to my academic persuits, I deeply enjoy writting and reading.  These interests greatly enhance my programming skills by honing my ability to communicate complex ideas clearly and effectively. Writing helps me articulate and document code and projects with precision, while reading broadens my perspective and fuels my creativity.
 </p>
 Check out my repos to see what I have been working on! 🚀
