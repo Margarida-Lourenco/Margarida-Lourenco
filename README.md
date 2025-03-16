@@ -2,7 +2,7 @@
 
 - 🎓 I'm Studying Computer Science and Engineering at **[Instituto Superior Técnico](https://tecnico.ulisboa.pt)**
 
-- 📫 How to reach me **margaridacode9101214@gmail.com**
+- 📫 How to reach me **margaridalourenco318@gmail.com**
 
 - 📖 Stephen King is my favourite author
 
