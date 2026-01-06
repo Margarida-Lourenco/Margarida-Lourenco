@@ -28,7 +28,9 @@ Feel free to explore my repositories and connect with me!
         <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/></a>
 </a>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margarida-lourenco&layout=compact&theme=nightowl&count_private=true&custom_title=Top%20Languages" alt="Top Languages">
+  
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Margarida-Lourenco&layout=compact&theme=radical)
+
 </p>
 <br> </p>
 
@@ -41,7 +43,7 @@ Feel free to explore my repositories and connect with me!
 
  <p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=margarida-lourenco&show_icons=true&theme=nightowl&count_private=true" alt="GitHub Stats">
+  ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Margarida-Lourenco&show_icons=true&theme=radical)
 </div>
 <br> </p>
 
